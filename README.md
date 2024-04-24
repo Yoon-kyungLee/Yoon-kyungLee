@@ -21,13 +21,7 @@
 </span>
 
 ## OBJECTIVE
-프론트엔드 개발자
-
-## WORK EXPERIENCE`
-의약품 품질관리(총 4년 5개월)<br><br>
-일동제약```(2022.02 ~ 2022.10)```<br>
-동국제약```(2018.06 ~ 2022.01)```<br>
-
+Frontend Developer
 
 ## EDUCATION
 충남대학교(대전) - 화학과
@@ -35,11 +29,6 @@
 
 ## TRAINING
 코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10.17 ~ 2024.04.08)```<br><br>
-HTML/CSS, Javascript, React, Typescript, Next.js, Git, GitHub에 대한 이해<br>
-모던 자바스크립트 스터디<br>
-React.js, Next.js 팀 프로젝트 경험<br>
-디자이너, 백엔드와의 협업 경험<br>
-
 
 ## ADDITIONAL SKILLS
 <span>
