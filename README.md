@@ -5,23 +5,26 @@
 <summary>About Me</summary>
 <br>
 <span>
-  <a href="https://velog.io/@yk2588/">
+  <a href="https://velog.io/@yk2588/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="mailto:yk2588@nate.com">
+  <a href="mailto:yk2588@nate.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="https://www.instagram.com/___yoonkyung/">
+  <a href="https://www.instagram.com/___yoonkyung/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
 
 ## OBJECTIVE
 Frontend Developer
+
+## MY RESUME
+<a href="https://drive.google.com/file/d/1yU6P0vmOj84gbM9reFgCgW360MF457C-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Me!</a>
 
 ## EDUCATION
 충남대학교(대전) - 화학과
