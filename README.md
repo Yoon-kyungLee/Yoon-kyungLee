@@ -20,11 +20,11 @@
   </a>
 </span>
 
-## OBJECTIVE
-Frontend Developer
-
 ## MY RESUME
 <a href="https://drive.google.com/file/d/1yU6P0vmOj84gbM9reFgCgW360MF457C-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Me!</a>
+
+## OBJECTIVE
+Frontend Developer
 
 ## EDUCATION
 충남대학교(대전) - 화학과
