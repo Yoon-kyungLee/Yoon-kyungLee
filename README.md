@@ -67,7 +67,7 @@ Frontend Developer
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoon-kyungLee&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoon-kyungLee&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/> --!>
 <br><br><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E7fael,10:ff26cc,30:f9bdbd,75:ebabcf,100:fca5c5&height=40&section=footer&text=&fontSize=0" width="100%"/>
