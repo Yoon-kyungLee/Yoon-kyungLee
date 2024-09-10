@@ -14,11 +14,6 @@
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://www.instagram.com/___yoonkyung/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
 
 ## MY RESUME
 <a href="https://drive.google.com/file/d/1yU6P0vmOj84gbM9reFgCgW360MF457C-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Me!</a>
