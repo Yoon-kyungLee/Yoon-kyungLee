@@ -15,9 +15,6 @@
   </a>
 </span>
 
-## MY RESUME
-<a href="https://drive.google.com/file/d/1yU6P0vmOj84gbM9reFgCgW360MF457C-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Me!</a>
-
 ## OBJECTIVE
 Frontend Developer
 
@@ -26,7 +23,10 @@ Frontend Developer
 ```(2012.03 ~ 2018.02)```
 
 ## TRAINING
-코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10.17 ~ 2024.04.08)```<br><br>
+코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10.17 ~ 2024.04.08)```
+
+## WORK
+솔로트립 | 프론트엔드 개발자 ```(2024.07.28 ~)```
 
 ## ADDITIONAL SKILLS
 <span>
