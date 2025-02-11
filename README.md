@@ -1,7 +1,7 @@
 <div align="center">
 
-<details>
-<summary><h3>About Me!</h3></summary>
+
+<h1>About Me!</h1>
 <br>
 <span>
   <a href="https://velog.io/@yk2588/" target="_blank" rel="noopener noreferrer">
@@ -19,8 +19,8 @@
 이력서 바로가기
 </a>
 
-## OBJECTIVE
-Frontend Developer
+## WORK
+솔로트립 | 프론트엔드 개발자 ```(2024.07.28 ~)```
 
 ## EDUCATION
 충남대학교(대전) - 화학과
@@ -30,10 +30,9 @@ Frontend Developer
 스나이퍼팩토리 | 프로젝트 캠프: Next.js 1기 ```(2024.05~2024.08)```<br />
 코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10 ~ 2024.04)```
 
-## WORK
-솔로트립 | 프론트엔드 개발자 ```(2024.07.28 ~)```
 
-## ADDITIONAL SKILLS
+
+## SKILLS
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -45,7 +44,7 @@ Frontend Developer
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-</details>
+
 <br><br>
 
 <div align="center">
