@@ -14,6 +14,11 @@
   </a>
 </span>
 
+## RESUME
+<a href="https://midnight-technician-783.notion.site/197994b45f838064ae3dfab33a14c785">
+이력서 바로가기
+</a>
+
 ## OBJECTIVE
 Frontend Developer
 
@@ -22,36 +27,24 @@ Frontend Developer
 ```(2012.03 ~ 2018.02)```
 
 ## TRAINING
-코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10.17 ~ 2024.04.08)```
+스나이퍼팩토리 | 프로젝트 캠프: Next.js 1기 ```(2024.05~2024.08)```<br />
+코드잇 스프린트 | 프론트엔드 부트캠프 2기 ```(2023.10 ~ 2024.04)```
 
 ## WORK
 솔로트립 | 프론트엔드 개발자 ```(2024.07.28 ~)```
 
 ## ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ TypeScript-blue?style=plastic&logo=TypeScript&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ React-61DAFB?style=plastic&logo=React&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Next.js-black?style=plastic&logo=Next.js&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ SASS-cc6699?style=plastic&logo=SASS&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ styledcomponents-db7093?style=plastic&logo=styledcomponents&logoColor=white"/>
-</span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </details>
 <br><br>
 
