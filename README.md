@@ -2,7 +2,6 @@
 
 
 <h1>About Me!</h1>
-<br>
 <span>
   <a href="https://velog.io/@yk2588/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=white"/>
@@ -15,7 +14,7 @@
 </span>
 
 ## RESUME
-<a href="https://midnight-technician-783.notion.site/197994b45f838064ae3dfab33a14c785">
+<a href="https://midnight-technician-783.notion.site/197994b45f838064ae3dfab33a14c785" target="_blank" rel="noopener noreferrer">
 이력서 바로가기
 </a>
 
