@@ -13,11 +13,6 @@
   </a>
 </span>
 
-## RESUME
-<a href="https://midnight-technician-783.notion.site/197994b45f838064ae3dfab33a14c785" target="_blank" rel="noopener noreferrer">
-이력서 바로가기
-</a>
-
 ## WORK
 xCREW | 프론트엔드 개발자 ```(2025.03.05 ~)```<br />
 솔로트립 | 프론트엔드 개발자 ```(2024.07.28 ~ 2025.02.28)```
