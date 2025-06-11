@@ -48,4 +48,9 @@ xCREW | 프론트엔드 개발자 ```(2025.03.05 ~)```<br />
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoon-kyungLee&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/> --!>
 <br><br><br><br>
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yoon-kyungLee.Yoon-kyungLee&"  />
+</div>
+
 </div>
